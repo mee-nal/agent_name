@@ -1,2 +1,0 @@
-/home/kali/test_agent_file/documentation-payload/commands/agent_commands.txt
-/home/kali/test_agent_file/documentation-payload
