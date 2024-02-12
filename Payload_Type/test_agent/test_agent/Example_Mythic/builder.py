@@ -1,7 +1,3 @@
-#a simple testing file for making changes 
+#logic for building features of the agent goes here. 
 
 
-#a= 8
-#b=2
-#sum =(a+b)
-#print(sum)
