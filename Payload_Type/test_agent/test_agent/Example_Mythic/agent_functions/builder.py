@@ -1,3 +1,3 @@
-#logic for building features of the agent goes here. 
+#logic for building features of the agent for SERVER SIDE goes here. 
 
 

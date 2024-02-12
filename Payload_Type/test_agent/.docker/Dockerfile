@@ -7,6 +7,5 @@ RUN dnf install -y \
         python3.11-devel \
 
 
-
 COPY requirements.txt .
 RUN rm requirements.txt
