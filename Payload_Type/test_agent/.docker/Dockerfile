@@ -1,5 +1,7 @@
 #instructions to create docker container from the docker image of the agent. 
-FROM nginx
+# syntax=docker/dockerfile:1.4
+FROM alpine
+COPY --link /foo /bar
 
 RUN dnf install -y \
         python3.11 \
