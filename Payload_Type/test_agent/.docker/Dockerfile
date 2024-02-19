@@ -1,6 +1,6 @@
 #instructions to create docker container from the docker image of the agent. 
 # syntax=docker/dockerfile:1.4
-FROM alpine
+FROM scratch
 COPY --link /foo /bar
 
 RUN dnf install -y \
