@@ -22,7 +22,10 @@ Please make sure you also have Docker and Docker-compose installed on your syste
 
 Before installing your agent onto the CLI, ensure that it is up and running. Refer to the official Documentation for the same. 
 
+## Note 
 
+This repo contains pretty much every file you need to build a basic agent and make it installable. 
+I have also written guidelines inside a few files about what they do and how you can make them too, can go through them in case needed. 
 
 
 

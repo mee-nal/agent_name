@@ -1,0 +1,2 @@
+Put your .jpg/ .png/ .svg icon file here. 
+Make sure to also add the path to this file in your builder.py

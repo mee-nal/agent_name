@@ -1,0 +1,8 @@
+This is just a reference code.  
+
+This file is about what features your agent has, like, the type of OS it supports, c2 profiles it uses, 
+architecture of your payload. 
+
+This file is important for your agent to show up on GUI. 
+
+The code written in the actual .json file is just a reference code. 

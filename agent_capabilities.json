@@ -1,0 +1,32 @@
+{
+    "os": [
+      "Windows",
+      "Linux"
+    ],
+    "languages": [
+      ""
+    ],
+    "features": {
+      "mythic": [
+        "browser scripts"
+      ],
+      "custom": [
+        "key exchange",
+        "killdate",
+        "ssh client",
+        "working hours"
+      ]
+    },
+    "payload_output": [
+      "exe"
+    ],
+    "architectures": [
+      "x86",
+      "x86_64"
+    ],
+    "c2": [
+      "http"
+    ],
+    "mythic_version": "3.2.2",
+    "agent_version": ""
+  } 

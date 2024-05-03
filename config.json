@@ -6,6 +6,6 @@
     "exclude_documentation_wrapper": true,
     "exclude_agent_icons": false,
     "remote_images": {
-      "agent_name": "docker.io/library/nginx"
+      "agent_name": "docker image url"
     }
   }

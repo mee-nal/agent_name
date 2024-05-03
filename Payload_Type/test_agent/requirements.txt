@@ -1,2 +1,0 @@
-mythic-container==0.4.9
-mythic_payloadtype_container==0.1.18
