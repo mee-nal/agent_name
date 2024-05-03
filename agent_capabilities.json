@@ -11,9 +11,7 @@
         "browser scripts"
       ],
       "custom": [
-        "key exchange",
         "killdate",
-        "ssh client",
         "working hours"
       ]
     },
